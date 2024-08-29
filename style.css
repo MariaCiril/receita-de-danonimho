@@ -2,6 +2,7 @@ body{
     background-color: #d321217a;
     border:5pxs solid:red;
     border: groove;
+    display: inline-block; 
 }
 
 img{
