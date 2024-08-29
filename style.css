@@ -10,5 +10,7 @@ img{
     width: 900px;
     border: 15px;
     background-color: rgba(209, 25, 255, 0.411);
+    display: block
+  
      
 }
